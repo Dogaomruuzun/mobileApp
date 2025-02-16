@@ -1,0 +1,1 @@
+ /Users/doga/Projects/mobile/.dart_tool/flutter_build/bc903403168d38aef3c0bb468df50929/native_assets.yaml: 
